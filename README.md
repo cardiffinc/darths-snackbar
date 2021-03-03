@@ -6,3 +6,8 @@ import using
 <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/cardiffinc/darths-snackbar/main/snackbar.css">
 ```
 
+Preview:
+
+![image](https://user-images.githubusercontent.com/61339666/109810204-42359300-7c4f-11eb-9deb-8cab27e7aa0b.png)
+
+
