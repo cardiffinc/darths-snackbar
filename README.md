@@ -2,7 +2,7 @@
 
 import using 
 ```
-<script src="https://raw.githubusercontent.com/cardiffinc/darths-snackbar/main/snackbar.js"></script>
-<link rel="stylesheet" type="text/css" href="https://raw.githubusercontent.com/cardiffinc/darths-snackbar/main/snackbar.css">
+<script src="https://cdn.jsdelivr.net/gh/cardiffinc/darths-snackbar/main/snackbar.js"></script>
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/cardiffinc/darths-snackbar/main/snackbar.css">
 ```
 
