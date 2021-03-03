@@ -1,5 +1,5 @@
 #snackbar {
-    font-family: 'Noto Sans JP', sans-serif;
+    font-family: inherit;
     margin-left: 2em;
     visibility: hidden;
     min-width: 250px;
